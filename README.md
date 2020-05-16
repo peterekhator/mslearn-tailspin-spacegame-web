@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/peterekhator12/DemoProject/_apis/build/status/peterekhator.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/peterekhator12/DemoProject/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
